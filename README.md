@@ -1,4 +1,4 @@
-ontent Management System (CMS) - Backend Service
+Content Management System (CMS) - Backend Service
 This project is a Java-based backend service for a Content Management System that allows users to manage articles and tracks user viewing activity.
 
 Features
